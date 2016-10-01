@@ -2,7 +2,7 @@ defmodule DistributedAttributeServer.Mixfile do
   use Mix.Project
 
   def project do
-    [app: :distributed_attribute_server_application,
+    [app: :distributed_attribute_server,
      version: "0.1.0",
      elixir: "~> 1.3",
      elixirc_paths: elixirc_paths(Mix.env),
