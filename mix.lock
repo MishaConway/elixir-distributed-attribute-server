@@ -1,0 +1,4 @@
+%{"attribute_server": {:hex, :attribute_server, "0.1.0", "3cc4fa1149141f702cf6f395df3f7d25b86c070775deb1c8aefe984ac6d56115", [:mix], []},
+  "earmark": {:hex, :earmark, "1.0.1", "2c2cd903bfdc3de3f189bd9a8d4569a075b88a8981ded9a0d95672f6e2b63141", [:mix], []},
+  "ex_doc": {:hex, :ex_doc, "0.14.1", "bfed8d4e93c755e2b150be925ad2cfa6af7c3bfcacc3b609f45f6048c9d623d6", [:mix], [{:earmark, "~> 1.0", [hex: :earmark, optional: false]}]},
+  "stringify": {:hex, :stringify, "0.1.0", "32c6a73bffa77f0c6bcc4806f6f451c1868ec7f77018c59e2e81fdb04da3d081", [:mix], []}}
